@@ -1,0 +1,29 @@
+/*
+Theme Name: ThemeName
+Theme URI: http://inspyregroup.com
+Description: A Modular Theme.
+Author: Nicholas Koskowski, Inspyre Group
+Version: 1.0
+Tags: awesome
+*/
+
+/* Typography */
+
+h1,h2,h3,h4,h5,h6 {}
+p,label,blockquote,input,select,textarea {}
+
+h1 {}
+h2 {}
+h3 {}
+h4 {}
+h5 {}
+h6 {}
+
+/* Form Elements */
+
+button,.btn,input[type=submit] {}
+input[type=text], input[type=password], input[type=number], input[type=email] {}
+
+/* Header */
+
+/* Footer */
